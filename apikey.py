@@ -1,0 +1,1 @@
+apikey = "" #copy and paste your apikey betweeen the double quotes from openai services. 
