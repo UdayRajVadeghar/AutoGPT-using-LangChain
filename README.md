@@ -23,4 +23,5 @@ Steps to implement are:
 8)This will connect you to the service using chramadb and open your default browser where in you can ask anything
 9)Note: I have already set the promts , so you will be only able to see the title and 10 advantages of the given topic.
 10)To change that , you can edit the promt of your own in the code.
+So, This is how it is done.
 
